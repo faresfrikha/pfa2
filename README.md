@@ -5,8 +5,7 @@ En France, la circulaire du 20 octobre 1906 pose les premiers fondements techniq
 (révisé en 1999).
 
 En 1975, la commission des communautés européennes décida d’harmoniser les méthodes et règles de calcul des structures de génie civil en lançant la rédaction des "Eurocodes" qui sont des normes européennes de conception et de calcul des structures. En 1989, la commission transféra au comité européen de normalisation (CEN) la prise en charge de la rédaction des Eurocodes, qui seront organisés 10 groupes de normes :
-
-— EN 1990 Eurocode 0 : bases de calcul des structures.
+— EN 1990 Eurocode 0 : bases de calcul des structures. 
 — EN 1991 Eurocode 1 : actions sur les structures.
 — EN 1992 Eurocode 2 : calcul des structures en béton.
 — EN 1993 Eurocode 3 : calcul des structures en acier.
