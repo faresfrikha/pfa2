@@ -1,7 +1,7 @@
 # pfa2
 Projet Fin d'Année II
 
-En France, la circulaire du 20 octobre 1906 pose les premiers fondements techniques du béton armé qui est considérer parmi les matériaux de construction classiques. En effet cette réglementation s’est appuyé au début sur une méthode de calcul dite aux contraintes admissibles (σ < σadm) qui sera remplacée par les règles : BA45, BA60, CCBA68, BAEL80, BAEL83, BAEL90 et enfin BAEL91
+En France, la circulaire du 20 octobre 1906 pose les premiers fondements techniques du béton armé qui est considéré parmi les matériaux de construction classiques. En effet cette réglementation s’est appuyé au début sur une méthode de calcul dite aux contraintes admissibles (σ < σadm) qui sera remplacée par les règles : BA45, BA60, CCBA68, BAEL80, BAEL83, BAEL90 et enfin BAEL91
 (révisé en 1999).
 
 En 1975, la commission des communautés européennes décida d’harmoniser les méthodes et règles de calcul des structures de génie civil en lançant la rédaction des "Eurocodes" qui sont des normes européennes de conception et de calcul des structures. En 1989, la commission transféra au comité européen de normalisation (CEN) la prise en charge de la rédaction des Eurocodes, qui seront organisés 10 groupes de normes :
@@ -24,11 +24,11 @@ L’EC2 comporte 3 parties :
 • Partie 2 : Ponts en béton - Calcul et dispositions constructives.
 • Partie 3 : Silos et réservoirs.
 
-L’Eurocode 2 est la norme utiliser dans les pays de l’union européenne depuis début 2006, en effet elle a remplacé les règles BAEL99 pour le béton armé et BPEL99 pour le béton précontraint en mars 2010.
+L’Eurocode 2 est la norme utilisée dans les pays de l’union européenne depuis début 2006, en effet elle a remplacé les règles BAEL99 pour le béton armé et BPEL99 pour le béton précontraint en mars 2010.
 
 En Tunisie, nous continuons jusqu’aujourd’hui à utiliser principalement le règlement BAEL 99 pour la conception et le calcul des structures en béton, mais ce dernier devra être remplacé normalement par l’EC2 dans les années à venir.
 
 Dans ce contexte, notre projet de fin de deuxième année (PFA2) propose de dresser une comparaison entre les méthodes de calcul ou de justification des éléments en béton armé et principalement les poutres, vis-à-vis de l’effort tranchant selon le BAEL et l’EC2.
 
 Pour ce faire le présent rapport est organisé en trois chapitres. Dans le premier chapitre, nous allons étudier les hypothèses générales et les bases de calcul du béton armé selon le BAEL99 et l’EC2. Dans le deuxième chapitre, nous allons présenter le principe et les méthodes de justification des poutres en béton armé vis-à-vis de l’effort tranchant selon le BAEL et l’EC2. Dans le troisième
-chapitre, nous allons appliquer ce principe et ces méthodes de justification selon le BAEL et l’EC2 au dimensionnement, d’abord manuel et ensuite automatique ou numérique moyennant le logiciel "Arche", à une poutre en béton armé soumise à la flexion simple vis-à-vis de l’effort tranchant.
+chapitre, nous allons appliquer ce principe et ces méthodes de justification selon le BAEL et l’EC2 au dimensionnement, d’abord manuel et ensuite automatique ou numérique moyennant le logiciel "Arche", d'une poutre en béton armé soumise à la flexion simple vis-à-vis de l’effort tranchant.
